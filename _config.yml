@@ -1,0 +1,28 @@
+name: Apogii
+favicon: null
+layout_spectrum: 0.004028264433145523
+typography_spectrum: 0.6270284685306251
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.0664199364837259
+  lightness: 0.4771903532091528
+  saturation: 0.7199020723346621
+  rhythmicContrast: 0.8274746357928962
+purpose: []
